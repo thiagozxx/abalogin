@@ -18,9 +18,10 @@
   
   .form-title {
     line-height: 1.75rem;
-    font-weight: 600;
+    font-weight: 800;
     text-align: center;
     color: #000;
+    letter-spacing: 3px;
   }
   
   .input-container {
