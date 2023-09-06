@@ -1,0 +1,7 @@
+//BIBLIOTECAS DO JAVASCRIPT NO JQUERY//
+https://jquery.com/
+
+1° CLICAR EM DONWLOAD JQUERY
+2° CLICAR NO Download the compressed, production jQuery 3.7.1 (COPIAR O LINK)
+3° IR PARA O SITE "https://igorescobar.github.io/jQuery-Mask-Plugin/#examples"
+4° CLICAR EM ON GITHUB DESCER E COPIAR O LINK CDNJs

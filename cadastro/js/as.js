@@ -13,7 +13,7 @@ document.getElementById('botaoCadastro')
 })
 
 function verifica(){/*  */
-    let email = document.getElementById('username').value;
+    let email = document.getElementById('email').value;
     let senha = document.getElementById('password').value;
 
     if(email == "" || senha == ""){
@@ -37,7 +37,7 @@ function consultar(email, senha){
 
     for(let i = 0;i<usuarios.length;i++){
         if(usuarios[i].email == email && usuarios[i].senha == senha){
-            window.open("../assets/index.html")
+            window.open("../assets/index2.html")
             window.close();
             break;
         }
